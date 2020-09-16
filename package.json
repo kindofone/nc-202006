@@ -1,0 +1,19 @@
+{
+  "name": "nc-202006",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kindofone/nc-202006.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kindofone/nc-202006/issues"
+  },
+  "homepage": "https://github.com/kindofone/nc-202006#readme"
+}
