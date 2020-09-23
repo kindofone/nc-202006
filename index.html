@@ -6,10 +6,18 @@
   <title>My First Node App</title>
 </head>
 <body>
-  <h1>Hi %name%</h1>
+  <div class="messeges">
+    %messeges%
+  </div>
   <form action="/" method="GET">
-    <input type="text" name="name">
-    <input type="text" name="age">
+    <label>
+      Name:
+      <input type="text" name="name" value="%name%">
+    </label>
+    <label>
+      Message:
+      <input type="text" name="message">
+    </label>
     <input type="submit">
   </form>
 </body>
